@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Assurance...
 - 🌱 I’m currently learning Jmeter SQL MYSQL for DB Testing...
 - 💞️ I want to collaborate on innovative software projects that push boundaries and solve real-world problems.
-- 📫 How to reach me: Drop me a message on GitHub or email at [ehtishamghaffar31@gmail.com.com].
+- 📫 How to reach me: Drop me a message on GitHub or email at [ehtishamghaffar31@gmail.com].
 - 😄 Pronouns: He/him.
 - ⚡ Fun fact: I'm an avid table tennis player and enjoy analyzing game strategies in my free time!
 <!---
